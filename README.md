@@ -1,5 +1,7 @@
 # Tracker_TX
 
+Based upon https://github.com/RoelKroes/TBTracker
+
   - Compiles for Arduino 328PU Pro Mini 8Mhz external Crystal 3.3v
   
   Voltages:
