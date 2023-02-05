@@ -57,4 +57,11 @@ Connections:
     R2 -> 10K
     Voltage divider Ratio ->  1.28 (R1+R2)/R2
 
+Radio Power Converter:
+https://coolconversion.com/electronics/dBm-W/Convert_2_dBm_to_mW_
+
+Antenna:
+
+1/4 Wave guitar string
+
 
