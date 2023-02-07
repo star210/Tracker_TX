@@ -61,7 +61,8 @@ Radio Power Converter:
 https://coolconversion.com/electronics/dBm-W/Convert_2_dBm_to_mW_
 
 Antenna:
-
 1/4 Wave guitar string
 
+Burst and Landing Calculator
+https://predict.sondehub.org/
 
